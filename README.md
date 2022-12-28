@@ -3,9 +3,13 @@ ScrumFaster is a virtual Scrum board that combines a traditional Scrum board wit
 
 # Project Contributors
 Muhammad Khan
+
 Chi Vu
+
 Timofei Kabakov
+
 Amanda Ewen
+
 Bolarinwa Dare
 
 ### Video Demo
