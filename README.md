@@ -1,6 +1,13 @@
 # ScrumFaster
 ScrumFaster is a virtual Scrum board that combines a traditional Scrum board with graphical visualizations of progress and an easy way to create new user stories and assign points to make scrum meetings more efficient. Teams can use the software to create user stories and tasks, plan their sprints, delegate tasks to members, and track the group’s progress using graphical visualizations such as velocity graphs, burndown charts, and cumulative flow. Anyone utilizing the Scrum flavour of Agile could use this software to complete their projects.
 
+# Project Contributors
+Muhammad Khan
+Chi Vu
+Timofei Kabakov
+Amanda Ewen
+Bolarinwa Dare
+
 ### Video Demo
 https://user-images.githubusercontent.com/115325256/207139458-f30be1d2-37c8-4a27-a236-7ee46158d19d.mov
 
