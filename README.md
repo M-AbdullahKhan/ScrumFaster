@@ -12,10 +12,10 @@ Amanda Ewen
 
 Bolarinwa Dare
 
-### Video Demo
+# Video Demo
 https://user-images.githubusercontent.com/115325256/207139458-f30be1d2-37c8-4a27-a236-7ee46158d19d.mov
 
-### Installation
+# Installation
 
 To run the ScrumFaster, you need to have java jdk (version 19) installed on your computer. To check if you have the right version, type "java -version" in your terminal. If it says that your current version is 19, everything is correct. If not, try deleting all other jdks on your machine and indicate the path to the right version (19) in your system variable "Path".
 
